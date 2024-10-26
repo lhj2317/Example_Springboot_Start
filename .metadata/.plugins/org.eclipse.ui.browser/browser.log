@@ -1,0 +1,75 @@
+
+10월 12, 2024 19:57:58.15 NEW SESSION
+10월 12, 2024 19:57:58.15 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 15, 2024 15:17:01.919 NEW SESSION
+10월 15, 2024 15:17:01.919 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 16, 2024 12:17:38.34 NEW SESSION
+10월 16, 2024 12:17:38.34 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 16, 2024 13:52:07.932 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+10월 20, 2024 14:36:07.953 NEW SESSION
+10월 20, 2024 14:36:07.954 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 20, 2024 14:38:30.248 [24644:27736:1020/143830.247:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:30.384 [24644:27736:1020/143830.383:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:30.939 [24644:27736:1020/143830.938:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:32.235 [24644:27736:1020/143832.235:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:33.116 [24644:27736:1020/143833.116:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:36.115 [24644:27736:1020/143836.114:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:36.950 [24644:27736:1020/143836.949:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:37.458 [24644:27736:1020/143837.457:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:38.578 [24644:27736:1020/143838.577:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:38:39.86 [24644:27736:1020/143839.085:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:41:13.162 [24644:27736:1020/144113.161:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:41:13.638 [24644:27736:1020/144113.637:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:41:14.273 [24644:27736:1020/144114.273:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:41:15.147 [24644:27736:1020/144115.147:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:41:15.755 [24644:27736:1020/144115.754:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:03.585 [24644:27736:1020/144203.581:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:03.726 [24644:27736:1020/144203.725:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:04.270 [24644:27736:1020/144204.268:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:05.587 [24644:27736:1020/144205.586:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:10.325 [24644:27736:1020/144210.324:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:10.952 [24644:27736:1020/144210.951:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:12.519 [24644:27736:1020/144212.519:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:13.32 [24644:27736:1020/144213.032:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:13.968 [24644:27736:1020/144213.967:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:14.651 [24644:27736:1020/144214.650:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:15.451 [24644:27736:1020/144215.451:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:16.173 [24644:27736:1020/144216.172:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 20, 2024 14:42:16.687 [24644:27736:1020/144216.686:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+
+10월 20, 2024 21:04:06.646 NEW SESSION
+10월 20, 2024 21:04:06.646 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 20, 2024 21:43:18.365 [20844:20432:1020/214318.359:ERROR:cast_socket.cc(332)] [192.168.45.232:8009, auth=SSL_VERIFIED] CANCELLED - Aborting DoConnectLoop.
+
+10월 21, 2024 11:02:59.636 NEW SESSION
+10월 21, 2024 11:02:59.636 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 21, 2024 13:30:14.802 [16140:22484:1021/133014.689:ERROR:cast_socket.cc(332)] [192.168.45.232:8009, auth=SSL_VERIFIED] CANCELLED - Aborting DoConnectLoop.
+10월 21, 2024 14:09:42.391 [16140:22484:1021/140942.390:ERROR:cast_socket.cc(332)] [192.168.45.100:8009, auth=SSL_VERIFIED] CANCELLED - Aborting DoConnectLoop.
+10월 21, 2024 14:27:28.424 [16140:22484:1021/142728.423:ERROR:cast_socket.cc(332)] [192.168.45.232:8009, auth=SSL_VERIFIED] CANCELLED - Aborting DoConnectLoop.
+
+10월 25, 2024 15:09:07.592 NEW SESSION
+10월 25, 2024 15:09:07.592 Created TensorFlow Lite XNNPACK delegate for CPU.
+10월 25, 2024 15:14:18.300 [27064:30076:1025/151418.299:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 15:14:18.301     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 15:14:18.301     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 15:14:18.302     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 15:14:18.303     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 15:14:18.304     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 15:14:18.306     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 15:22:39.22 [27064:30076:1025/152239.021:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 15:22:39.24     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 15:22:39.27     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 15:22:39.29     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 15:22:39.32     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 15:22:39.34     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 15:22:39.36     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+10월 25, 2024 15:27:04.299 [27064:30076:1025/152704.298:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+10월 25, 2024 15:27:04.300     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+10월 25, 2024 15:27:04.301     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+10월 25, 2024 15:27:04.302     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+10월 25, 2024 15:27:04.303     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+10월 25, 2024 15:27:04.304     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+10월 25, 2024 15:27:04.305     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)

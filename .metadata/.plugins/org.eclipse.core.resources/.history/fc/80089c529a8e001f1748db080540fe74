@@ -1,0 +1,11 @@
+package com.study.springboot.service;
+
+public class BuyTicketService implements IBuyTicketService {
+
+	@Override
+	public int buy(String consumerId, int money, String error) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
